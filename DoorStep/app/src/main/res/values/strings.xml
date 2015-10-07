@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">"@YourDoorStep"</string>
+
+    <string name="hello_world">Register</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_vendor_selection">VendorSelectionActivity</string>
+</resources>
